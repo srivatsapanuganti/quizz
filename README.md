@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+tap here to go to the site https://srivatsapanuganti.github.io/quizz/
+
 You can use the [editor on GitHub](https://github.com/srivatsapanuganti/quizz/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
